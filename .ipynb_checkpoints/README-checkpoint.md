@@ -85,4 +85,3 @@ Data: Wikipedia page on 20th-century history
 ● Germany is the most influential country, followed by Japan
 
 ● Most other countries score relatively low on this scale
-
